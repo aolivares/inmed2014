@@ -1,6 +1,3 @@
-inmed2014
-=========
-
 ##International Conference on Innovation in Medicine and Healthcare 2014
 
 This repository contains both the both the article and the presentation slides for the work entitled: **Gated Sensor Fusion: A way to Improve the Precision of Ambulatory Human Body Motion Estimation** which was accepted for presentation at the INMED2014 *(San Sebastian, Spain, 9-11 July)*.
