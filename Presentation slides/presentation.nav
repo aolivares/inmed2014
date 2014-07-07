@@ -1,0 +1,61 @@
+\beamer@endinputifotherversion {3.33pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Introduction}{3}{Introduction}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\slideentry {1}{0}{3}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{0}{4}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{0}{5}{5/14}{}{0}}
+\headcommand {\beamer@framepages {5}{14}}
+\headcommand {\sectionentry {2}{Previous Work}{15}{Previous Work}{0}}
+\headcommand {\beamer@sectionpages {3}{14}}
+\headcommand {\beamer@subsectionpages {3}{14}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{15}{Orientation Estimation}}\headcommand {\beamer@subsectionpages {15}{14}}
+\headcommand {\slideentry {2}{1}{1}{15/15}{Orientation Estimation}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\sectionentry {3}{Theoretical Background}{16}{Theoretical Background}{0}}
+\headcommand {\beamer@sectionpages {15}{15}}
+\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{16}{Intensity Detectors}}\headcommand {\beamer@subsectionpages {16}{15}}
+\headcommand {\slideentry {3}{1}{1}{16/16}{Intensity Detectors}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {3}{1}{2}{17/17}{Intensity Detectors}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{18}{Gated Orientation Estimation Algorithms}}\headcommand {\beamer@subsectionpages {16}{17}}
+\headcommand {\slideentry {3}{2}{1}{18/18}{Gated Orientation Estimation Algorithms}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {3}{2}{2}{19/19}{Gated Orientation Estimation Algorithms}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\sectionentry {4}{Experiments}{20}{Experiments}{0}}
+\headcommand {\beamer@sectionpages {16}{19}}
+\headcommand {\beamer@subsectionpages {18}{19}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{20}{Experiment Design}}\headcommand {\beamer@subsectionpages {20}{19}}
+\headcommand {\slideentry {4}{1}{1}{20/20}{Experiment Design}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {4}{1}{2}{21/21}{Experiment Design}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{22}{Results}}\headcommand {\beamer@subsectionpages {20}{21}}
+\headcommand {\slideentry {4}{2}{1}{22/22}{Results}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\sectionentry {5}{Discussion of Results}{23}{Discussion of Results}{0}}
+\headcommand {\beamer@sectionpages {20}{22}}
+\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\slideentry {5}{0}{2}{23/23}{}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\sectionentry {6}{Conclusions and Future Work}{24}{Conclusions and Future Work}{0}}
+\headcommand {\beamer@sectionpages {23}{23}}
+\headcommand {\beamer@subsectionpages {23}{23}}
+\headcommand {\slideentry {6}{0}{3}{24/24}{}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {6}{0}{4}{25/25}{}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@partpages {1}{25}}
+\headcommand {\beamer@subsectionpages {24}{25}}
+\headcommand {\beamer@sectionpages {24}{25}}
+\headcommand {\beamer@documentpages {25}}
+\headcommand {\def \inserttotalframenumber {14}}
