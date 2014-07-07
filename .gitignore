@@ -22,3 +22,7 @@
 *.out
 *.synctex.gz
 *.pdf
+*.ps
+*.nav
+*.gz
+*.snm
