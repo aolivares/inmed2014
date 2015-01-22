@@ -10,5 +10,8 @@ This repository contains both the both the article and the presentation slides f
 - To compile both the presentation slides and the article use DVI-PS-PDF chain in conjunction with LaTeX.
 
 ![Complete signal](http://i.imgur.com/o9y4HFH.png)
+**Figure 1** Reference vs. estimated orientation angles. Complete signal.
 ![Zoom on low intensity](http://i.imgur.com/0m8uEkk.png)
+**Figure 2** Reference vs. estimated orientation angles. Zoom on low inensity.
 ![Zoom on high intensity](http://i.imgur.com/C393m9V.png)
+**Figure 3** Reference vs. estimated orientation angles. Zoom on high inensity.
