@@ -1,3 +1,4 @@
+[Imgur](http://i.imgur.com/Tb1NbY4.jpg)
 ##International Conference on Innovation in Medicine and Healthcare 2014
 
 This repository contains both the both the article and the presentation slides for the work entitled: **Gated Sensor Fusion: A way to Improve the Precision of Ambulatory Human Body Motion Estimation** which was accepted for presentation at the [INMED2014](http://inmed-14.innovationkt.org/) *(San Sebastian, Spain, 9-11 July, 2014)*.
@@ -7,3 +8,7 @@ This repository contains both the both the article and the presentation slides f
 **KEYWORDS:** Human motion, Orientation estimation, MARG sensors, Kalman filtering, Intensity detection.
 
 - To compile both the presentation slides and the article use DVI-PS-PDF chain in conjunction with LaTeX.
+
+[Imgur](http://i.imgur.com/o9y4HFH.png)
+[Imgur](http://i.imgur.com/0m8uEkk.png)
+[Imgur](http://i.imgur.com/C393m9V.png)
